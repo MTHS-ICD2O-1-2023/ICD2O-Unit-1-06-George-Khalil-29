@@ -13,6 +13,7 @@
   padding-left: 15pt;
   padding-right: 15pt;
   padding-top: 15pt;
+  text-align: center;
 }
 
 .mdl-textfield__error {
@@ -27,4 +28,19 @@
 
 body {
   background-color: rgb(125, 134, 151);
+}
+
+img{
+  width: 300px;
+  height: 300px;
+}
+
+p a {
+   font-size: 2rem;
+   color: blue;
+}
+
+h2 {
+  color: #000;
+  text-align: center;
 }
