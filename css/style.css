@@ -1,6 +1,6 @@
 
 .mdl-ripple {
-  background: #000;
+  background: rgb(0 0 0);
   opacity: 0.001;
 }
 
@@ -16,18 +16,14 @@
   text-align: center;
 }
 
-.mdl-textfield__error {
-  color: lightgreen;
-}
-
 .page-content {
-  color: rgb(0, 0, 0);
+  color: rgb(0 0 0);
   font-family: Helvetica, Arial, sans-serif;
   font-size: 2rem;
 }
 
 body {
-  background-color: rgb(125, 134, 151);
+  background-color: rgb(125 134 151);
 }
 
 img{
@@ -37,10 +33,9 @@ img{
 
 p a {
    font-size: 2rem;
-   color: blue;
 }
 
 h2 {
-  color: #000;
+  color: rgb(0 0 0);
   text-align: center;
 }
